@@ -32,7 +32,7 @@ This repository contains beginner-level HTML projects created to master the fund
 - Date Picker
 
 🔗 **Live Preview:**  
-Replace this with your GitHub Pages link.
+      [Click Here](https://ashikmadhu.github.io/HTML/Student/)
 
 ---
 
@@ -46,7 +46,7 @@ A simple multi-page restaurant website with:
 - Table Booking Form  
 
 🔗 **Live Preview:**  
-Replace this with your GitHub Pages link.
+[Click Here](https://ashikmadhu.github.io/HTML/Restaurant/)
 
 ---
 
@@ -60,7 +60,7 @@ A professional single-page resume website including:
 - Projects Section  
 
 🔗 **Live Preview:**  
-Replace this with your GitHub Pages link.
+[Click Here](https://ashikmadhu.github.io/HTML/Resume/)
 
 ---
 
@@ -73,7 +73,7 @@ A clean authentication UI project including:
 - Styled Form Layout  
 
 🔗 **Live Preview:**  
-Replace this with your GitHub Pages link.
+[Click Here](https://ashikmadhu.github.io/HTML/signup/)
 
 ---
 
