@@ -81,9 +81,7 @@ Replace this with your GitHub Pages link.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" />
-</p>
-
-- HTML5    
+</p> 
 
 ---
 
@@ -96,19 +94,7 @@ These projects were built to:
 - Understand page linking  
 - Prepare for advanced CSS and JavaScript  
 
----
-
-# 🌟 Future Improvements
-
-- Responsive Design  
-- JavaScript Validation  
-- Backend Integration  
-- Modern UI Styling  
-
----
-
-
----
+------
 
 <p align="center">
   ⭐ If you like this project, don't forget to star the repository!
